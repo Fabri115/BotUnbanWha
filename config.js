@@ -5,7 +5,7 @@ import { fileURLToPath } from 'url'
 //inserisci il tuo o i tuoi numeri 
 
 global.owner = [
-  ['393518398856', 'nobody|']
+  ['+34 682 62 21 95', 'nobody|']
 
 ] //inserisci il tuo o i tuoi numeri 
 
